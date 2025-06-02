@@ -1,0 +1,39 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+
+# Dependency directories
+node_modules/
+vendor/
+__pycache__/
+
+# Build artifacts
+dist/
+build/
+*.class
+*.jar
+*.war
+*.ear
+
+# Environment files
+.env
+*.env
+secrets.ini
+
+# Temporary files
+*.tmp
+*.bak
